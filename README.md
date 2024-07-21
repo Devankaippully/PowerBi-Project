@@ -1,1 +1,2 @@
 # PowerBi-Project
+This repository contains the code and resources for the New York City Airbnb Dashboard. This dashboard provides insights into the Airbnb listings in NYC, including pricing, location, availability, and other key metrics. The NYC Airbnb Dashboard provides a comprehensive overview of the Airbnb listings in New York City.The dashboard is created using Microsoft Power BI. The goal is to help users understand the trends and patterns in the Airbnb market, facilitating better decision-making for hosts, guests, and policymakers.
